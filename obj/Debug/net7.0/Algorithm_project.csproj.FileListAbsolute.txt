@@ -1,0 +1,15 @@
+/Users/Dorph/Documents/Algorithm_project/bin/Debug/net7.0/Algorithm_project
+/Users/Dorph/Documents/Algorithm_project/bin/Debug/net7.0/Algorithm_project.deps.json
+/Users/Dorph/Documents/Algorithm_project/bin/Debug/net7.0/Algorithm_project.runtimeconfig.json
+/Users/Dorph/Documents/Algorithm_project/bin/Debug/net7.0/Algorithm_project.dll
+/Users/Dorph/Documents/Algorithm_project/bin/Debug/net7.0/Algorithm_project.pdb
+/Users/Dorph/Documents/Algorithm_project/obj/Debug/net7.0/Algorithm_project.csproj.AssemblyReference.cache
+/Users/Dorph/Documents/Algorithm_project/obj/Debug/net7.0/Algorithm_project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dorph/Documents/Algorithm_project/obj/Debug/net7.0/Algorithm_project.AssemblyInfoInputs.cache
+/Users/Dorph/Documents/Algorithm_project/obj/Debug/net7.0/Algorithm_project.AssemblyInfo.cs
+/Users/Dorph/Documents/Algorithm_project/obj/Debug/net7.0/Algorithm_project.csproj.CoreCompileInputs.cache
+/Users/Dorph/Documents/Algorithm_project/obj/Debug/net7.0/Algorithm_project.dll
+/Users/Dorph/Documents/Algorithm_project/obj/Debug/net7.0/refint/Algorithm_project.dll
+/Users/Dorph/Documents/Algorithm_project/obj/Debug/net7.0/Algorithm_project.pdb
+/Users/Dorph/Documents/Algorithm_project/obj/Debug/net7.0/Algorithm_project.genruntimeconfig.cache
+/Users/Dorph/Documents/Algorithm_project/obj/Debug/net7.0/ref/Algorithm_project.dll
